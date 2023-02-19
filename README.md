@@ -107,19 +107,3 @@ Thank you for visiting my profile, and I hope you enjoy exploring [my projects](
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukshanDias&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
