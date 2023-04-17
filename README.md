@@ -29,7 +29,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring [my projects](
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [React Movie Website](https://github.com/RukshanDias/React-Movie-Website)  
+- 🔭 My latest project - [GitHub Profile ReadMe Generator](https://github.com/RukshanDias/GitHub-ReadMe-Generator)  
   
 
 - 🌱 I’m currently learning ML and NLP  
