@@ -45,7 +45,7 @@ Thank you for visiting my profile, and I hope you enjoy exploring [my projects](
 
 </td><td valign="top" width="50%">
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" align="center" style="width: 100%" />
 </div>  
 </td></tr></table>  
 <br/>  
